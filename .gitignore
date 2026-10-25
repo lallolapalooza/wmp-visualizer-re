@@ -1,0 +1,20 @@
+# local analysis artifacts (Microsoft binaries, extracted resources)
+artifacts/
+*.dll
+*.DLL
+*.tlb
+*.iso
+*.wim
+
+# python
+__pycache__/
+*.pyc
+
+# ghidra
+proj/
+*.gpr
+*.rep/
+
+# os
+Thumbs.db
+.DS_Store
